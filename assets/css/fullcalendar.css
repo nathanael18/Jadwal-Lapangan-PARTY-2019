@@ -289,6 +289,9 @@ html .fc,
 .fc-event.earth{
     background-color: #8c6137;
 }
+.fc-event.dday{
+    background-color: #ffa538;
+}
 .fc-event:hover{
     opacity: 0.7;
 }
